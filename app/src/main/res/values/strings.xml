@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="import_json">Import</string>
+</resources>
